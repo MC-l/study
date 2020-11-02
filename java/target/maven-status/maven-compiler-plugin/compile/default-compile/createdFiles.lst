@@ -1,0 +1,8 @@
+spi\demo\Cat.class
+spi\demo\SpiMain.class
+spi\Main.class
+agent\TestAgent$DefineTransformer.class
+agent\TestAgent.class
+spi\demo\Dog.class
+agent\TestMain.class
+spi\demo\Animal.class
